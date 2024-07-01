@@ -1,22 +1,23 @@
-(A) Replace car light 
+(A) Find out how to Replace car light @online
+(C) 20 Buy the bedroom ikea furniture @online 
+(E) 05 - Lookup the Kat Memory palace again @online
+(E) 05 Make a date for a family climbing  
+(E) 06 Book dental hydenist 
+x 2024-07-01 Ask mum about sending down a Road Rash  
+(E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
+(E) 30 Setup shares account  @online 
+(E) Think about  a long term solution for phone photo storage 
 (B) 05 Pick another new night for games night with Kat and then immediately message people @offline
 (C) 08 Review all my A2 notes  @offline
-(C) 20 Buy the bedroom ikea furniture
-(E) 05 - Lookup the Kat Memory palace again @online
 (E) 05 Empty Joe inbox completely +Overhead @offline
-(E) 05 Make a date for a family climbing  
-(E) 06 Book dental hydenist
+(E) Lookup how to properly clean a bbq grill
 (E) 10 Create new physics grid @offline 
-(E) 10 Setup remote control for air conditioning
+(E) 10 Setup remote control for air conditioning @offline 
 (E) 10 Start cupboard sorting project  @offline
-(E) 15 Sort out a proper retro games box in garage 
-(E) Ask mum about sending down a Road Rash  
+(E) 15 Sort out a proper retro games box in garage  @offline 
 (E) 15 Take new photo of the mirror setup  @offline
-(E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
 (E) 20 watch home videos on bigdisk @tower @offline
-(E) 30 Drill holes for supports in inspection pit 
+(E) 30 Drill holes for supports in inspection pit  @offline 
 (E) 30 Fix the shelves in the garage  @offline (MAYBE  measure ) 
-(E) 30 Setup shares account 
 (E) 90 Write out full review of the memory palace.  +paper @offline
-(D) Cut wood for discovered cupboard
-(E) Find a long term solution for phone photo storage 
+(D) Cut wood for discovered cupboard @offline 

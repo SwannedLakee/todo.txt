@@ -1,14 +1,16 @@
-(A) Do the Turing Paperwork 
-(A) 24 Practice presentation for Wednesday
-(E) Rsync for dropbox and then cancel it. 
-(E) 10 Reformat smaller external drive @offline (but want the commands) 
-(E) 30 Add Project review file to igor @offline
-(E) 30 Send the next set of OVF emails  @online
-(E) 20 Start next accounts project @online
 (A) 30 Run the CM2 process for known headteachers  @online
-(C) 40 Write a newsletter for subscribers @online 
+(A) Put mum's expenses in Quickbooks 
+(A) Transfer the Turing money from PayPal @online 
+(B)  JR to provide the costs for each WWW camp and the number of hours that go into them  
+(C) 40 Review and send the newsletter to subscribers 
 (D) 30 Process the littlefinger transactions into expenses  @online
-(E) 10 Review actions from last meeting  @online
 (E) 10 Rewrite the top ten on your task list as blog posts. @online
 (E) 20 Igor should ignore contexts (like this one @online) 
-(E) 20 Review oldest policies @online @hotel
+(E) 20 Review oldest policies @drive 
+(E) 30 Send the next set of OVF emails  @online
+(E) Build the office chair  @offline 
+(E) Cancel Dropbox @online
+(E) Find out if there are minutes from the last meeting - there isn't any in the folder 
+(E) Put bigdisk on smallexternal, then wipe @offline 
+(E) Put some openAi videos onto youtube's to watch list 
+(E) Thoroughly test Claude 

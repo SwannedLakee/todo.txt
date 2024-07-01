@@ -3838,3 +3838,7 @@ x 2024-06-19 02 Check if the mirror post appeared when it wasn't supposed to @on
 x 2024-06-24 10 Another reddit post @online
 x 2024-06-25 50 Read the last www book  +EQT  @offline 
 x 2024-06-25 40 Put dropbox on an external drive and cancel it @offline
+x 2024-07-01 24 Practice presentation for Wednesday
+x 2024-07-01 10 Reformat smaller external drive @offline (but want the commands) 
+x 2024-07-01 20 Start next accounts project @online
+x 2024-07-01 30 Add Project review file to igor @offline
